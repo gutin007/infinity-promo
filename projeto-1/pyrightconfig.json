@@ -1,0 +1,6 @@
+{
+    "extraPaths": [
+        "financas/aplicativo/main/mercado-livre-bot",
+        "financas/aplicativo/main/shopee-bot"
+    ]
+}
